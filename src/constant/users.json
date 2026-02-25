@@ -1298,4 +1298,18 @@
     "gender": true,
     "age": 146
   }
+}
+, {
+  "id": 101,
+  "username": "salar",
+  "email": "gbeardsall2r@jugem.jp",
+  "isActive": true,
+  "position": "Design Engineer",
+  "password": "123",
+  "personalInfo": {
+    "first_name": "Gene",
+    "last_name": "Beardsall",
+    "gender": true,
+    "age": 146
+  }
 }]
